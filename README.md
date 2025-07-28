@@ -1,90 +1,63 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Amir.726+%F0%9F%91%8B;Frontend+Developer;React%2C+Next.js%2C+TailwindCSS;Clean+UI+%7C+Modern+Architecture" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <strong>A passionate Web Developer with experience in modern front-end technologies</strong>
-</p>
 
 <p align="center">
-  <a href="https://reactjs.org/">
-    <img width="50" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/">
-    <img width="50" title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/">
-    <img width="50" title="TailwindCSS" alt="TailwindCSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.javascript.com/">
-    <img width="50" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://html.spec.whatwg.org/">
-    <img width="50" title="HTML5" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img width="50" title="CSS3" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/">
-    <img width="50" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://jestjs.io">
-    <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg" />
-  </a>&nbsp;&nbsp;
-  <a href="https://eslint.org">
-    <img width="50" title="ESLint" alt="ESLint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-  </a>&nbsp;&nbsp;
-  <a href="https://prettier.io">
-    <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Amir.726+%F0%9F%91%8B;Frontend+Developer+%7C+React+%7C+Next.js;Modern+UI+Lover+%7C+TailwindCSS+%7C+JS" alt="Typing SVG" />
+</p>
+
+---
+
+
+<h2 align="center">💻 About Me</h2>
+
+<p align="center">
+  Passionate Frontend Developer focused on clean UI, smooth UX, and performance.<br/>
+  Love working with <b>React</b>, <b>Next.js</b>, <b>TailwindCSS</b>, and crafting modern interfaces.
+</p>
+
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML5"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS3"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
   </a>
 </p>
 
 ---
 
-## 🔧 Tech Stack & Tools
 
-- Languages: JavaScript (ES6+), HTML5, CSS3
-- Frameworks/Libraries: React.js, Next.js, TailwindCSS, Framer Motion
-- State Management: Context API, Zustand, React Query
-- Testing: Jest, React Testing Library
-- Code Quality: ESLint, Prettier, Husky, Lint-Staged
-- Version Control: Git, GitHub, GitHub Actions
-- Deployment: Vercel, Netlify
-- Design Tools: Figma, Lucide Icons, Shadcn UI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir726&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir726&theme=react&hide_border=true" width="48%" />
+</p>
 
 ---
 
-<details>
-  <summary>✨ Useful Packages & UI Kits</summary>
+<h2 align="center">🌐 Connect With Me</h2>
 
-  - [Shadcn UI](https://ui.shadcn.com)  
-  - [Radix UI](https://www.radix-ui.com)  
-  - [Lucide Icons](https://lucide.dev)  
-  - [clsx](https://github.com/lukeed/clsx#readme)  
-  - [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)  
-  - [Tailwind Variants](https://www.tailwind-variants.org)  
-  - [Framer Motion](https://framer.com/motion/)  
-  - [Prism.js](https://prismjs.com)  
-  - [React Markdown](https://github.com/remarkjs/react-markdown#readme)  
-  - [UUID](https://github.com/uuidjs/uuid#readme)  
-</details>
-
----
-
-## ⚙️ Getting Started
-
-Make sure you have [Git](https://git-scm.com) and [Node.js](https://nodejs.org) installed.
-
-`bash
-# Clone the repo
-git clone https://github.com/Amir.726/snapp_project
-
-# Move into project folder
-cd snapp_project
-
-# Install dependencies
-yarn
-
-# Start the development server
-yarn dev
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
