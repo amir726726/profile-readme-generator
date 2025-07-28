@@ -1,6 +1,6 @@
 <!-- Typing animation for introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Amir.726+%F0%9F%91%8B;Frontend+Developer+%7C+React+%7C+Next.js;Modern+UI+Lover+%7C+TailwindCSS+%7C+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=22D3EE&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Amir.726+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js;TailwindCSS+%7C+Modern+JS" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
   </a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="TailwindCSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" alt="TailwindCSS" />
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
@@ -54,14 +54,15 @@
 
 ---
 
-<!-- Contact section -->
+<!-- Connect With Me -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/amirhossein-davari-b6a283377/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer">
+  &nbsp;&nbsp;
+  <a href="mailto:amirhossein.davari.amirhossein@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
