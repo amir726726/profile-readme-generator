@@ -74,10 +74,10 @@ Make sure you have [Git](https://git-scm.com) and [Node.js](https://nodejs.org) 
 
 `bash
 # Clone the repo
-git clone https://github.com/Amir.726/your-project-name
+git clone https://github.com/Amir.726/snapp_project
 
 # Move into project folder
-cd your-project-name
+cd snapp_project
 
 # Install dependencies
 yarn
@@ -85,4 +85,4 @@ yarn
 # Start the development server
 yarn dev
 
-# Visit http://localhost:3000
+
