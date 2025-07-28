@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Amir.726 — a Frontend Developer specialized in React, Next.js, TailwindCSS, and modern UI architecture.</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Amir.726+%F0%9F%91%8B;Frontend+Developer;React%2C+Next.js%2C+TailwindCSS;Clean+UI+%7C+Modern+Architecture" alt="Typing SVG" />
+</h1>
 <p align="center">
   <strong>A passionate Web Developer with experience in modern front-end technologies</strong>
 </p>
